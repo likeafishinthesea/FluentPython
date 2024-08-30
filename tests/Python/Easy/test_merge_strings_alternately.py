@@ -1,5 +1,5 @@
 import unittest
-from Problems.Python.Easy import merge_alternately
+from Problems.Python.Easy.merge_strings_alternately import merge_alternately
 
 
 class MergeStringsAlternately(unittest.TestCase):
