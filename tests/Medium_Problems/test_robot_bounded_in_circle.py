@@ -1,5 +1,5 @@
 import unittest
-from Problems.Medium.robot_bounded_in_circle import is_robot_bounded
+from Problems.Python.Medium.robot_bounded_in_circle import is_robot_bounded
 
 
 class TestRobotBoundedInCircle(unittest.TestCase):

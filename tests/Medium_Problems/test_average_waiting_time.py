@@ -1,5 +1,5 @@
 import unittest
-from Problems.Medium.average_waiting_time import calculate_average_waiting_time
+from Problems.Python.Medium.average_waiting_time import calculate_average_waiting_time
 
 
 class TestAverageWaitingTime(unittest.TestCase):
